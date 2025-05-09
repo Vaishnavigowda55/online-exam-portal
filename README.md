@@ -19,11 +19,6 @@
   * [Prerequisites](#bangbang-prerequisites)
   * [Run Locally](#running-run-locally)
   * [Run with Docker](#run-with-docker)
-- [To-do](#notes-to-do)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
 
   
 
